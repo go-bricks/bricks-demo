@@ -1,14 +1,14 @@
 module github.com/go-bricks/bricks-demo/subworkshop
 
-go 1.14
+go 1.19
 
 require (
 	github.com/alecthomas/kong v0.2.12
-	github.com/go-bricks/bjaeger v0.1.3
-	github.com/go-bricks/bprometheus v0.1.3
-	github.com/go-bricks/bviper v0.1.3
-	github.com/go-bricks/bzerolog v0.1.3
-	github.com/go-bricks/bricks v0.2.1
+	github.com/go-bricks/bjaeger v0.0.1
+	github.com/go-bricks/bprometheus v0.0.1
+	github.com/go-bricks/bviper v0.0.1
+	github.com/go-bricks/bzerolog v0.0.1
+	github.com/go-bricks/bricks v0.0.1
 	github.com/go-bricks/bricks-demo/workshop v0.0.0-20201116100640-4a178a4540e1
 	github.com/golang/mock v1.4.4
 	github.com/golang/protobuf v1.4.3
