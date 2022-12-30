@@ -7,7 +7,7 @@ require (
 	github.com/go-bricks/bjaeger v0.0.1
 	github.com/go-bricks/bprometheus v0.0.1
 	github.com/go-bricks/bricks v1.0.31
-	github.com/go-bricks/bricks-demo/workshop v0.0.0-20201116100640-4a178a4540e1
+	github.com/go-bricks/bricks-demo/workshop v0.0.0-20211102110000-000000000000
 	github.com/go-bricks/bviper v0.0.1
 	github.com/go-bricks/bzerolog v0.0.1
 	github.com/golang/mock v1.6.0
