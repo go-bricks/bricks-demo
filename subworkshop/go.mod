@@ -4,12 +4,12 @@ go 1.19
 
 require (
 	github.com/alecthomas/kong v0.2.12
-	github.com/go-bricks/bjaeger v0.0.1
-	github.com/go-bricks/bprometheus v0.0.1
-	github.com/go-bricks/bricks v1.0.31
+	github.com/go-bricks/bjaeger v0.0.3
+	github.com/go-bricks/bprometheus v0.0.3
+	github.com/go-bricks/bricks v0.0.3
 	github.com/go-bricks/bricks-demo/workshop v0.0.0-20211102110000-000000000000
-	github.com/go-bricks/bviper v0.0.1
-	github.com/go-bricks/bzerolog v0.0.1
+	github.com/go-bricks/bviper v0.0.3
+	github.com/go-bricks/bzerolog v0.0.3
 	github.com/golang/mock v1.6.0
 	github.com/golang/protobuf v1.5.2
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.13.0
