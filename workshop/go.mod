@@ -5,11 +5,11 @@ go 1.19
 require (
 	github.com/HdrHistogram/hdrhistogram-go v1.0.1 // indirect
 	github.com/alecthomas/kong v0.2.12
-	github.com/go-bricks/bjaeger v0.0.4
-	github.com/go-bricks/bprometheus v0.0.4
-	github.com/go-bricks/bviper v0.0.4
-	github.com/go-bricks/bzerolog v0.0.4
-	github.com/go-bricks/bricks v0.0.4
+	github.com/go-bricks/bjaeger v0.0.6
+	github.com/go-bricks/bprometheus v0.0.6
+	github.com/go-bricks/bviper v0.0.6
+	github.com/go-bricks/bzerolog v0.0.6
+	github.com/go-bricks/bricks v0.0.6
 	github.com/golang/mock v1.4.4
 	github.com/golang/protobuf v1.4.3
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.1.0
